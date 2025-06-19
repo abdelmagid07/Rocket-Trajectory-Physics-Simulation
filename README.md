@@ -1,6 +1,6 @@
 # Rocket-Trajectory-Physics-Simulation
 
-This project simulates a rocket launch in MATLAB by modeling real-world physics such as thrust, fuel burn, gravity variation with altitude, and changing mass. The simulation calculates the rocket's vertical and horizontal motion over time and visualizes key data through plots.
+Simulates a rocket launch in MATLAB by modeling real-world physics such as thrust, fuel burn, gravity variation with altitude, and changing mass. The simulation calculates the rocket's vertical and horizontal motion over time and visualizes key data through plots.
 
 --- 
 
